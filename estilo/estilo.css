@@ -10,12 +10,15 @@ div#titulo{
 
 section#cabecalho{
   height: 100px;
+  background-color: #754668;
 }
 
 section#corpo{
   height: auto;
+  background-color: #8E6783;
 }
 
 section#rodape{
   height: 50px;
+  background-color: #4B2D43;
 }
