@@ -8,16 +8,16 @@ div#titulo{
 }
 
 section#cabecalho{
-  height: 100px;
+  height: 20vh;
   background-color: #754668;
 }
 
 section#corpo{
-  height: 500px;
+  height: 70vh;
   background-color: #8E6783;
 }
 
 section#rodape{
-  height: 50px;
+  height: 10vh;
   background-color: #4B2D43;
 }
