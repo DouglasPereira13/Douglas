@@ -7,3 +7,15 @@ div#titulo{
   left:50%;
   font-family: 'Nova Mono', monospace;
 }
+
+section#cabecalho{
+  height: 100px;
+}
+
+section#redesSociais{
+  height: auto;
+}
+
+section#rodape{
+  height: 50px;
+}
