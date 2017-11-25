@@ -3,8 +3,6 @@
 div#titulo{
   text-align: center;
   font-size: 100pt;
-  top:50%;
-  left:50%;
   font-family: 'Nova Mono', monospace;
   color: white;
 }
@@ -15,7 +13,7 @@ section#cabecalho{
 }
 
 section#corpo{
-  height: auto;
+  height: 500px;
   background-color: #8E6783;
 }
 
